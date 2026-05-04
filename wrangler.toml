@@ -9,8 +9,8 @@ compatibility_flags = [ "nodejs_compat" ]
 # Bucket Config / 存储设置 ==================
 [site]
 bucket = "./public"
-[[kv_namespaces]]
-binding = "DATABASE"
+# [[kv_namespaces]]
+# binding = "DATABASE"
 # Cloudflare KV ID / CF KV数据库ID，请修改ID
 # id = "**************************************"
 
