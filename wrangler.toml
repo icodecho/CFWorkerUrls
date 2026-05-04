@@ -1,5 +1,5 @@
 # Basic Config / 基本设置 ===================
-name = "cfworker-urls"
+name = "s"
 main = "src/cfapp.ts"
 compatibility_date = "2025-01-19"
 compatibility_flags = [ "nodejs_compat" ]
